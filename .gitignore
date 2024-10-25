@@ -1,0 +1,91 @@
+# Ignore virtual environment
+.venv/
+
+.env
+
+/data/**/*
+# Ignore IDE configuration files
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore data files
+*.dat
+
+# Ignore test result files
+*.testresult
+
+# Ignore build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Ignore configuration files
+*.ini
+*.cfg
+
+# Ignore cache files
+__pycache__/
+*.py[cod]
+
+# Ignore database files
+*.db
+*.sqlite3
+
+# Ignore key and password files
+*.key
+*.pem
+*.pass
+
+# Ignore debug files
+*.debug
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore code analysis result files
+*.coverage
+*.htmlcov/
+
+# Ignore documentation build files
+docs/_build/
+
+# Ignore pytest cache files
+.pytest_cache/
+
+# Ignore mypy cache files
+.mypy_cache/
+
+# Ignore pyre cache files
+.pyre/
+
+# Ignore tox environment files
+.tox/
+
+# Ignore coverage result files
+.coverage
+
+# Ignore cache files
+.cache/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.pyzw.py
+*.pyzw.pyc
+*.pyzw.pyo
+*.pyzw.pyd
+*.pyzw.pyw
+*.pyzw.pyz
+*.pyzw.pyzw
+*.pyzw.pyzw.py
