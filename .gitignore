@@ -1,9 +1,12 @@
 # Ignore virtual environment
 .venv/
 
+# Ignore dotenv
 .env
 
+# Ignore data folders
 /data/**/*
+
 # Ignore IDE configuration files
 .idea/
 .vscode/
